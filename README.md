@@ -2,7 +2,7 @@
 
 
      This project creates a functioning termostat, it solves several problems.  It takes a temapture from a sensor that reads it
-     from the room it is in.  Also, the progam take input from two buttons which when pressed modify the desired tempature.  The
+     from the room it is in.  Also, the progam takes input from two buttons which when pressed modify the desired tempature.  The
      buttons are checked for a press every 200ms, and the tempature is checked every 500ms.  When the tempature is checked it is
      also compared to the desired tempature and if this is above the current tempature the heater is turned on.  The display is
      updated every second.
