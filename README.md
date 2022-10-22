@@ -14,7 +14,7 @@
      
      For me working with embedded systems really got me thinking of how many things work in the world, like street light systems,
      electronic locks with keypad, motion detetor activated security systems, and much more.  The coding from the state diagrams
-     was really straight forward for me and designing the diagrams is has mostly been enjoyable.  In my opinion they have a slight
+     was really straight forward for me and designing the diagrams has mostly been enjoyable.  In my opinion they have a slight
      challenge to them which I like; some are more complicated than others.  Once they are done, however, as I stated above, the
      coding for them is really just cut and paste.
      
