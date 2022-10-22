@@ -1,5 +1,6 @@
 # Embedded-Systems
 
+
      This project creates a functioning termostat, it solves several problems.  It take a temapture from a sensor that reads it
      from the room it is in.  Also, the progam take input from two buttons which when pressed modify the desired tempature.  The
      buttons are checked for a press every 200ms, and the tempature is checked every 500ms.  When the tempature is checked it is
