@@ -19,7 +19,7 @@
      coding for them is really just cut and paste.
      
      I am not sure how this will translate to other course work, as it did use an external board, and this code runs on an endless
-     loop.  It is facinating and I do hope to use it again, I would love to work in a feild that programs state machines because I
+     loop.  It is facinating and I do hope to use it again.  I would love to work in a feild that programs state machines because I
      really seemed to pick it up with out much difficulty.
      
      To make this project maintainable readable, and adaptable I thourgoly commented the code I wrote.  I explained the intent of
